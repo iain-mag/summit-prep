@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://main--summit-prep--iain-mag.aem.live/sitemap.xml
